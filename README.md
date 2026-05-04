@@ -8,7 +8,7 @@ Hi there, I am a chemist focused on designing functional molecular systems using
 | BS-MS Chemistry         | Indian Institute of Science Education and Research Bhopal, India  | 2018-2025       |
 
 # Publication
-1. Pradhan, N.P.†, **Nagrale, P.K.†**, Lal, B., Dhasmana, Y., Chopra, D., and Srivastava, A., Chlorination-Enhanced H+/Cl− Co-Transport by Tyramine-Urea Conjugates. Chemistry–An Asian Journal, 2025, e70451. https://doi.org/10.1002/asia.70451
+1. Pradhan, N.P.†; **Nagrale, P.K.†**; Lal, B.; Dhasmana, Y.; Chopra, D.; and Srivastava, A.; Chlorination-Enhanced H+/Cl− Co-Transport by Tyramine-Urea Conjugates. Chemistry–An Asian Journal, 2025, e70451. https://doi.org/10.1002/asia.70451
 
 # Work Experience
 1. **Transmembrane Ion Transport via Synthetic Ionophores**\
